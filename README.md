@@ -56,7 +56,7 @@
 <a href="https://vk.com/slooner_1" target="_blank">
 <img src=https://static.tildacdn.com/tild6533-3231-4738-b665-326536363531/22842053.png style=for-the-badge&logo=github&logoColor=white alt=vkcom style="margin-bottom: 5px;" />
 </a>
-<a href="t.me/Gribnoi17" target="_blank">
+<a href="https://t.me/Gribnoi17" target="_blank">
 <img src=https://cryptodog.jp/wp-content/uploads/2019/10/798b36e7d4a5035553b1be4ebbc88d2e-1024x536.png style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="http://welwisestudio.tilda.ws/" target="_blank">
