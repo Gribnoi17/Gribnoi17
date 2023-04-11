@@ -54,10 +54,10 @@
 ## Connect with me  
 <div align="center">
 <a href="https://vk.com/slooner_1" target="_blank">
-<img src=https://static.tildacdn.com/tild6533-3231-4738-b665-326536363531/22842053.png style=for-the-badge&logo=github&logoColor=white width="400" height="200" alt=VK style="margin-bottom: 5px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvD8YoM7pzZqRTw_V1zAPzXAXt1PpB6pkMxmKmKJpcr-o1S0JfSD4LmKjSl4_1-KgCg&usqp=CAU style=for-the-badge&logo=VK&logoColor=white alt=VK style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/Gribnoi17" target="_blank">
-<img src=https://cryptodog.jp/wp-content/uploads/2019/10/798b36e7d4a5035553b1be4ebbc88d2e-1024x536.png style=for-the-badge&logo=gitlab&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
+<img src=https://cryptodog.jp/wp-content/uploads/2019/10/798b36e7d4a5035553b1be4ebbc88d2e-1024x536.png style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram width="484" height="104" style="margin-bottom: 5px;" />
 </a>
 <a href="http://welwisestudio.tilda.ws/" target="_blank">
 <img src=https://sun9-76.userapi.com/impg/fOXT6KfO6K_6KMHnaO9HirUn9PEVFKlLZTXgDg/O-M94BY_wos.jpg?size=400x400&quality=95&sign=5d4e50bd4f41426c43ba1164092e6373&type=album) style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
