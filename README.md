@@ -60,7 +60,7 @@
 <img src=https://dr-rumyantceva.ru/wp-content/uploads/2022/07/maxresdefault-300x169.jpg style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram width="484" height="104" style="margin-bottom: 5px;" />
 </a>
 <a href="http://welwisestudio.tilda.ws/" target="_blank">
-<img src=blob:https://web.telegram.org/352ee173-d3d8-47c9-b2df-0035608a9517 style=for-the-badge&logo=twitter&logoColor=white alt=Welwise_Studio style="margin-bottom: 5px;" />
+<img src= style=for-the-badge&logo=twitter&logoColor=white alt=Welwise_Studio style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
