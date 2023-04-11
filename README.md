@@ -57,7 +57,7 @@
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvD8YoM7pzZqRTw_V1zAPzXAXt1PpB6pkMxmKmKJpcr-o1S0JfSD4LmKjSl4_1-KgCg&usqp=CAU style=for-the-badge&logo=VK&logoColor=white alt=VK style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/Gribnoi17" target="_blank">
-<img src=https://dr-rumyantceva.ru/wp-content/uploads/2022/07/maxresdefault-300x169.jpg style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram width="484" height="104" style="margin-bottom: 5px;" />
+<img src=https://dr-rumyantceva.ru/wp-content/uploads/2022/07/maxresdefault-300x169.jpg style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
 </a>
 <a href="http://welwisestudio.tilda.ws/" target="_blank">
 <img src= style=for-the-badge&logo=twitter&logoColor=white alt=Welwise_Studio style="margin-bottom: 5px;" />
