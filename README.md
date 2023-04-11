@@ -54,7 +54,7 @@
 ## Connect with me  
 <div align="center">
 <a href="[https://github.com/https://vk.com/slooner_1](https://vk.com/slooner_1)" target="_blank">
-<img src=https://sun9-37.userapi.com/impf/vfP0Wpt4JahbGufTYBF4AuC0rdvjloTtz35QPw/VC43HpNEEwM.jpg?size=600x300&quality=95&crop=0,198,1280,322&sign=f9c76446d8a8f55b04b89cca5d1ca725&type=cover_group style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://static.tildacdn.com/tild6533-3231-4738-b665-326536363531/22842053.png style=for-the-badge&logo=github&logoColor=white alt=vk.com style="margin-bottom: 5px;" />
 </a>
 <a href="t.me/Gribnoi17" target="_blank">
 <img src=https://cryptodog.jp/wp-content/uploads/2019/10/798b36e7d4a5035553b1be4ebbc88d2e-1024x536.png style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
