@@ -53,14 +53,14 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://vk.com/slooner_1" target="_blank">
+<a href="[https://github.com/https://vk.com/slooner_1](https://vk.com/slooner_1)" target="_blank">
 <img src=https://sun9-37.userapi.com/impf/vfP0Wpt4JahbGufTYBF4AuC0rdvjloTtz35QPw/VC43HpNEEwM.jpg?size=1590x400&quality=95&crop=0,198,1280,322&sign=f9c76446d8a8f55b04b89cca5d1ca725&type=cover_group style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/@Gribnoi17" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+<a href="t.me/anlex7Gribnoi17" target="_blank">
+<img src=[https://img.shields.io/badge/gitlab-330F63.svg?&](https://cryptodog.jp/wp-content/uploads/2019/10/798b36e7d4a5035553b1be4ebbc88d2e-1024x536.png) style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/http://welwisestudio.tilda.ws/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=[https://img.shields.io/badge/twitter-%2300acee.svg?&](https://sun9-76.userapi.com/impg/fOXT6KfO6K_6KMHnaO9HirUn9PEVFKlLZTXgDg/O-M94BY_wos.jpg?size=400x400&quality=95&sign=5d4e50bd4f41426c43ba1164092e6373&type=album) style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
