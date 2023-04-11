@@ -54,13 +54,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://vk.com/slooner_1" target="_blank">
-<img src=https://img2.freepng.ru/20180622/gek/kisspng-vk-social-networking-service-android-aptoide-vkontakte-5b2d8b8790f6a6.9593282715297114955938.jpg style=for-the-badge&logo=VK&logoColor=white alt=VK style="margin-bottom: 5px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvD8YoM7pzZqRTw_V1zAPzXAXt1PpB6pkMxmKmKJpcr-o1S0JfSD4LmKjSl4_1-KgCg&usqp=CAU style=for-the-badge&logo=VK&logoColor=white alt=VK style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/Gribnoi17" target="_blank">
-<img src=https://www.eyeclinic.ru/upload/medialibrary/8dd/8dd8b73fc03a4dd57d07aad09586f24f.png style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram width="484" height="104" style="margin-bottom: 5px;" />
+<img src=https://dr-rumyantceva.ru/wp-content/uploads/2022/07/maxresdefault-300x169.jpg style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram width="484" height="104" style="margin-bottom: 5px;" />
 </a>
 <a href="http://welwisestudio.tilda.ws/" target="_blank">
-<img src=https://sun9-76.userapi.com/impg/fOXT6KfO6K_6KMHnaO9HirUn9PEVFKlLZTXgDg/O-M94BY_wos.jpg?size=200x200&quality=95&sign=5d4e50bd4f41426c43ba1164092e6373&type=album) style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=blob:https://web.telegram.org/352ee173-d3d8-47c9-b2df-0035608a9517 style=for-the-badge&logo=twitter&logoColor=white alt=Welwise_Studio style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
