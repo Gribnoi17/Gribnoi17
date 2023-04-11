@@ -54,7 +54,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://vk.com/slooner_1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://sun9-37.userapi.com/impf/vfP0Wpt4JahbGufTYBF4AuC0rdvjloTtz35QPw/VC43HpNEEwM.jpg?size=1590x400&quality=95&crop=0,198,1280,322&sign=f9c76446d8a8f55b04b89cca5d1ca725&type=cover_group style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/@Gribnoi17" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
@@ -73,22 +73,3 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
