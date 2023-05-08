@@ -4,7 +4,7 @@
 ### <div align="center">I'm Gribanov Danil, a developer of 2D/3D games on the Unity game engine👨‍💻 </div>  
   
 
-- 🔭 I've been developing games on Unity for about 9 months now.  
+- 🔭 I've been developing games on Unity for about 10 months now.  
   
 
 - 🌱 I work on a development team with the guys from Welwise Studio.  
@@ -17,10 +17,10 @@
   
 
 - 😋You can check out my repositories to see the projects I have been involved in.
-
-
--These are the games I had to work on: <a href="https://play.google.com/store/apps/details?id=com.SugoiDekaiGames">Fly_Bomber</a>, <a href="https://welwise-studio.itch.io/hit-the-vein?secret=uMFjyknbu7LxSUOtRcTmN0T1TlU">HitTheVein</a>,
+- 🎮These are the games I had to work on: <a href="https://play.google.com/store/apps/details?id=com.SugoiDekaiGames">Fly_Bomber</a>, <a href="https://welwise-studio.itch.io/hit-the-vein?secret=uMFjyknbu7LxSUOtRcTmN0T1TlU">HitTheVein</a>,
  <a href="https://yandex.ru/games/preview/221501?draft=true&lang=ru">Night_Racer</a>
+
+
   
 
 <br/>  
