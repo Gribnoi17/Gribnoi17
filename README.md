@@ -16,7 +16,12 @@
 - 🦾  I am currently a third-year student at RTU MIREA.  
   
 
-- 😋You can check out my repositories to see the projects I have been involved in.  
+- 😋You can check out my repositories to see the projects I have been involved in.
+
+
+-These are the games I had to work on:
+<a href="https://play.google.com/store/apps/details?id=com.SugoiDekaiGames
+" Fly Bomber</a>     
   
 
 <br/>  
