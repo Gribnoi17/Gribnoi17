@@ -4,7 +4,7 @@
 ### <div align="center">I'm Gribanov Danil, a developer of 2D/3D games on the Unity game engine👨‍💻 </div>  
   
 
-- 🔭 I've been developing games on Unity for about 10 months now.  
+- 🔭 I've been developing games on Unity for about 11 months now.  
   
 
 - 🌱 I work on a development team with the guys from Welwise Studio.  
